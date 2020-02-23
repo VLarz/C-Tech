@@ -1,0 +1,29 @@
+.title-color {
+  color: #26a69a;
+}
+
+.padding-top {
+  padding-top: 70px;
+}
+
+.text-color {
+  color: #838E95 !important
+}
+
+h4 {
+  margin: 0 0 0 0 !important;
+}
+
+p {
+  margin: 0 0 0 0 !important;
+} 
+
+.divider1 {
+  height: 1px;
+  overflow: hidden;
+  background-color: #e0e0e0;
+}
+
+.margin-bottom{
+    margin-bottom: 80px;
+}

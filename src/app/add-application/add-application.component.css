@@ -1,0 +1,18 @@
+.input-field input[type=text]:focus, .input-field input[type=email]:focus {
+    border-bottom: 1px solid #26a69a;
+    box-shadow: 0 1px 0 0 #26a69a;
+}
+.text-fields-padding{
+    padding-top: 25px;
+}
+/* .button-padding{
+    padding-right: 23.8vw;
+} */
+
+.header-buttons a{
+    margin-right: 5px;
+}
+
+.btn-block {
+    width: 100% !important;
+}

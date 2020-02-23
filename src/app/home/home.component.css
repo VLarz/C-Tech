@@ -1,0 +1,27 @@
+.icon-block {
+  padding: 15px !important;
+}
+
+.icon-color {
+  color: #26a69a;
+}
+
+.card-text {
+  padding-top: 30px;
+}
+.cards {
+  padding-top: 30px;
+}
+
+.title-color {
+  color: #26a69a;
+}
+
+.parallax img{ 
+  width: 100%;
+  height: auto;
+}
+
+.parallax-container {
+  height: 380px;
+}
